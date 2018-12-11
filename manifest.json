@@ -22,5 +22,12 @@
             "64": "images/icon64.png"
         },
         "default_title": "Reload Page"
+    },
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "windows": "Ctrl+R"
+            }
+        }
     }
 }
